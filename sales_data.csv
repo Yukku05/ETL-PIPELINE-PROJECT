@@ -1,0 +1,6 @@
+Order ID,Product,Quantity,Unit Price,Order Date
+101,Pen,10,1.5,2023-05-01
+102,Notebook,5,3.0,2023-05-02
+103,Pencil,7,0.5,invalid-date
+104,Pen,10,1.5,2023-05-01
+105,Notebook,5,3.0,2023-05-02
